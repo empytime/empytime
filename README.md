@@ -5,7 +5,7 @@
 
 
 <br>
-<p> I'm Max, Front-End developer from <a href="https://cdn-icons-png.flaticon.com/512/197/197586.png" width="13"></a><b>Valparaiso, Chile</b> </p>
+<p> I'm Max, Front-End developer from  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Valparaiso, Chile</b> </p>
 
 
 
