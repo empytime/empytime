@@ -5,7 +5,7 @@
 
 
 <br>
-<p> I'm Max, Front-End developer from <a href="https://www.flaticon.es/iconos-gratis/chile" title="chile iconos"></a> <b>Valparaiso, Chile</b></p>
+<p> I'm Max, Front-End developer from <a href="https://cdn-icons-png.flaticon.com/512/197/197586.png"><b>Valparaiso, Chile</b></a> </p>
 
 
 
