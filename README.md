@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Welcome, nice to see you<a href="https://www.linkedin.com/in/maximiliano-astorga-690956224/"></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 </div>
-<img src="https://www.canva.com/design/DAFvOCzElc0/KHqy3a-XKG57n8E1GlX8XA/watch?utm_content=DAFvOCzElc0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+https://github.com/empytime/empytime/assets/128811342/9c6a981f-9eef-4450-9ec8-a3044bf52303
+
 
 
 <br>
