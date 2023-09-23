@@ -8,4 +8,4 @@
 <p align="center"> I'm Max, Front-End developer from  <img src="https://cdn-icons-png.flaticon.com/512/197/197586.png" width="13"/> <b>Valparaiso, Chile</b> </p>
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=empytime)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=empytime&show_icons=true&theme=synthwave)
