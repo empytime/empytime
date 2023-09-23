@@ -1,9 +1,10 @@
 <div align="center">
 <h1 align="center">Welcome, nice to see you<a href="https://www.linkedin.com/in/maximiliano-astorga-690956224/"></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 </div>
+![](https://github.com/empytime/empytime/assets/128811342/4accf525-f003-4664-adbb-87f2ca07668c)
 
 
-<img src="https://github.com/empytime/empytime/assets/128811342/b6b14e02-a1e2-4597-a5c8-73ba4ee33fe4">
+
 
 
 
