@@ -4,24 +4,12 @@
 <img src="https://github.com/empytime/empytime/assets/128811342/3056392d-a56c-43a9-b817-0f51e1cc5341.gif">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
-<p> I'm Max, Front-End developer from  <img src="https://cdn-icons-png.flaticon.com/512/197/197586.png" width="13"/> <b>Valparaiso, Chile</b> </p>
+<p align="center"> I'm Max, Front-End developer from  <img src="https://cdn-icons-png.flaticon.com/512/197/197586.png" width="13"/> <b>Valparaiso, Chile</b> </p>
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### :bar_chart: [Coding time in the last month](https://github.com/muety/empytime)
 
 <p align="center">
 <a href="https://github.com/empytime">
