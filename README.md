@@ -1,11 +1,8 @@
 <div align="center">
 <h1 align="center">Welcome, nice to see you<a href="https://www.linkedin.com/in/maximiliano-astorga-690956224/"></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 </div>
+![Baner Max Astorga](https://github.com/empytime/empytime/assets/128811342/3056392d-a56c-43a9-b817-0f51e1cc5341)
 
-
-
-
-https://github.com/empytime/empytime/assets/128811342/98f0958a-594d-47bd-9869-98f49db80383
 
 
 
